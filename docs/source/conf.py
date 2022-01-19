@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Guia HS-WIM DNIT'
-copyright = '2022, Laboratório de Transportes e Logística, Universidade Federal de Santa Catarina'
-author = 'Laboratório de Transportes e Logística, Universidade Federal de Santa Catarina'
+project = 'Lumache'
+copyright = '2021, Graziella'
+author = 'Graziella'
 
 release = '0.1'
 version = '0.1.0'
